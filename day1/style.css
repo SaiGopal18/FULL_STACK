@@ -3,3 +3,13 @@ body
     background-color: red;
     color: white;
 }
+button
+{
+    color:orange;
+    background-color: blue;
+    
+}
+button:hover
+{
+    background-color: yellow;
+}
