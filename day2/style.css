@@ -1,0 +1,11 @@
+#new
+{
+    background-color:hotpink;
+    margin-left: 900px;
+    margin-top: 300px;
+
+}
+#new:hover
+{
+    background-color: white;
+}
