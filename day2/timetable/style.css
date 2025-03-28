@@ -1,0 +1,22 @@
+table{
+    border:solid black 1px;
+    border-collapse: collapse;
+    font-size: 18px;
+    font-weight:bolder;
+    
+    
+}
+tr,td{
+    border: solid black 1px;
+    padding: 30px;
+}
+#imp
+{
+    
+    padding-left: 0px;
+}
+#break
+{
+    margin-left: 10px;
+    padding-left: 70px;
+}
